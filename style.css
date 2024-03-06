@@ -1,0 +1,274 @@
+* {
+    color: #1B3807;
+
+}
+
+body {
+    background-image: linear-gradient(to bottom right, rgb(236, 251, 239), rgb(255, 255, 255));
+    /* background-color: rgb(236, 249, 245); */
+    /* border: 2px solid black; */
+    margin-right: 150px;
+    margin-top: 0px;
+    margin-left: 0px;
+    padding: 0;
+}
+
+.left_wall {
+    /* border: 2px solid black; */
+    background-color: rgb(12, 137, 122);
+    height: 460px;
+    width: 220px;
+    border-bottom-right-radius: 260px;
+}
+
+
+.logo {
+    /* border: 2px solid black; */
+    height: 80px;
+    width: 50px;
+    position: fixed;
+    top: 34px;
+    left: 80px;
+
+}
+
+.gh {
+    position: fixed;
+    top: 66px;
+    left: 120px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 500;
+    margin-right: 5em;
+}
+
+
+.navbar {
+    position: fixed;
+    top: 70px;
+    left: 360px;
+}
+
+.topLine {
+    position: fixed;
+    top: 83px;
+    right: 330px;
+    width: 310px;
+}
+
+.garden {
+    font-size: 25px;
+    font-weight: 600;
+    position: fixed;
+    top: 69px;
+    left: 1226px;
+}
+
+
+.tagLine {
+    height: auto;
+    width: 600px;
+    /* border: 2px solid black; */
+    position: fixed;
+    top: 150px;
+    left: 491px;
+
+}
+
+.firstTag {
+    font-size: 45px;
+    font-weight: 600;
+
+}
+
+.secondTag {
+    font-size: 45px;
+    font-weight: 600;
+    margin-top: -40px;
+}
+
+.lineOne,
+.lineTwo,
+.lineThree {
+    font-size: 18px;
+    margin-top: -17px;
+    letter-spacing: 2px;
+}
+
+button {
+    border: 2px solid white;
+    color: white;
+    font-size: 20px;
+    background-color: #1B3807;
+    font-weight: 700px;
+    letter-spacing: 0.5px;
+    margin-top: 0px;
+    padding: 7px 20px 7px 20px;
+}
+
+
+.fourParts {
+    /* border: 2px solid black; */
+    height: 210px;
+    width: 180px;
+    margin-left: 30px;
+    position: fixed;
+    top: 240px;
+    right: 153px;
+
+}
+
+.firstPart {
+    /* border: 2px solid rgb(174, 90, 90); */
+    background-color: #1B3807;
+    height: 60px;
+    width: 180px;
+}
+
+.secondPart {
+    /* border: 2px solid blue; */
+    text-align: center;
+    background-color: rgb(208, 231, 223);
+    padding-top: 10px;
+    height: 40px;
+    width: 180px;
+    margin-top: 15px;
+}
+
+.thirdPart {
+    /* border: 2px solid green; */
+    text-align: center;
+    background-color: rgb(208, 231, 223);
+    padding-top: 10px;
+    height: 40px;
+    width: 180px;
+    margin-top: 15px;
+}
+
+.fourthPart {
+    /* border: 2px solid violet; */
+    text-align: center;
+    background-color: rgb(208, 231, 223);
+    padding-top: 10px;
+    height: 40px;
+    width: 180px;
+    margin-top: 15px;
+}
+
+
+.imageBackground {
+    background-color: rgb(204, 210, 210);
+    position: fixed;
+    left: 120px;
+    bottom: 220px;
+    /* border: 2px solid black; */
+    height: 400px;
+    width: 280px;
+    border-top-right-radius: 400px;
+    border-top-left-radius: 400px;
+}
+
+
+.photuOne {
+    height: 320px;
+    position: fixed;
+    left: 89px;
+    bottom: 190px;
+
+
+}
+
+
+.shopPlants {
+    margin-top: 10px;
+    margin-left: 35px;
+    height: 20px;
+}
+
+.dollars {
+    height: 25px;
+    margin-left: 46px;
+    margin-top: -4px;
+}
+
+
+.alovera,
+.cactus,
+.monstera {
+    font-size: 20px;
+    font-weight: 520;
+    margin-top: 20px;
+}
+
+
+.below_rect {
+    /* border: 2px solid black; */
+    background-color: rgb(172, 200, 200);
+    position: fixed;
+    left: 120px;
+    bottom: 85px;
+    height: 100px;
+    width: 1080px;
+    z-index: -1;
+}
+
+
+.onePhotu,
+.twoPhotu,
+.threePhotu {
+    height: 220px;
+    margin-right: 40px;
+}
+
+.three_photus {
+    position: fixed;
+    bottom: 120px;
+    right: 400px;
+
+}
+
+
+.discount_10 {
+    height: 16px;
+    position: fixed;
+    bottom: 155px;
+    left: 170px;
+}
+
+
+.discount_data {
+    height: 33px;
+    position: fixed;
+    bottom: 110px;
+    left: 170px;
+}
+
+
+.forma_2 {
+    height: 70px;
+    /* border: 2px solid black; */
+    position: fixed;
+    bottom: 0;
+    right: 0;
+
+}
+
+.leaf {
+    height: 110px;
+    /* border: 2px solid black; */
+    position: fixed;
+    bottom: 0;
+    right: 0px;
+}
+
+
+.contact {
+    /* border: 2px solid black; */
+    width: 200px;
+    position: fixed;
+    right: 153px;
+    bottom: 90px;
+}
